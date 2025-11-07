@@ -1,0 +1,41 @@
+@import "tailwindcss";@import "tailwindcss";
+
+
+:root {
+  /* 🎨 NITRIS Theme Colors */
+  --color-primary: #b95c40;      /* Terracotta / Burnt Sienna */
+  --color-secondary: #3c5a98;    /* Dark Blue */
+  --color-pagebg: #F4F6F9;       /* Light Gray */
+  --color-contentbg: #FFFFFF;    /* White */
+  --color-textdark: #333333;     /* Dark Gray */
+  --color-textlight: #FFFFFF;    /* White */
+  --color-accent: #E53935;       /* Red */
+}
+
+body {
+  font-family: 'Segoe UI', Roboto, sans-serif;
+  background-color: var(--color-pagebg);
+  color: var(--color-textdark);
+}
+
+/* ✨ Optional global styling */
+a {
+  color: var(--color-primary);
+  transition: color 0.3s ease;
+}
+
+a:hover {
+  color: var(--color-secondary);
+}
+
+button {
+  background-color: var(--color-primary);
+  color: var(--color-textlight);
+  border-radius: 0.5rem;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: var(--color-secondary);
+}
