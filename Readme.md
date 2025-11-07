@@ -42,7 +42,7 @@ It enables students to **book meals, view menus, and track tokens**, while admin
 ---
 
 ## 🚀 Live Demo & Code
-🔗 **Live Link:** [https://github.com/sachinjaiswalnitr/NITR-SMART-MESS]  
+🔗 **Live Link:** Click here[(https://github.com/sachinjaiswalnitr/NITR-SMART-MESS)]  
 📦 **GitHub Repository:** [https://github.com/sachinjaiswalnitr/NITR-SMART-MESS]
 
 ---
